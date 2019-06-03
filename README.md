@@ -6,3 +6,5 @@ portfolio page (about me), and a contact page (with my contact
 information).
 
 I have added basic CSS styling to create this.
+
+Deployed link is https://kaycfu01.github.io/Basic-Portfolio/
